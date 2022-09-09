@@ -1,0 +1,6 @@
+{ "automovil" :[{ "id": 0, "name": "Focus", "price": 500000, "category": "Autos", "brand": "Ford", "img": "https://d171xgro1r36rb.cloudfront.net/1wRP95xW4ZIL0RGitI4UhdidoPrLZKEjO.jpg" },
+  { "id": 1, "name": "Fiesta", "price": 600000, "category": "Autos", "brand": "Ford", "img": "https://img.remediosdigitales.com/13ecaf/ford-fiesta-st-edition-2021-05/840_560.jpeg" },
+  { "id": 2, "name": "Ranger", "price":800000, "category":"Camionetas","brand": "Ford","img": "https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/nameplate/Nueva-ranger/2020/colours-models/xls/colorizer/azul-belice/far-ranger-xls-azul-belice.jpg.dam.full.high.jpg/1593576091045.jpg"},
+  { "id": 3, "name": "Corsa", "price": 400000, "category": "Autos", "brand": "Chevrolet", "img": "https://d171xgro1r36rb.cloudfront.net/19etcV41rJRXOaSdXrMVHOjrQkkCIUp7B.jpg" },
+  { "id": 4, "name": "cruze", "price": 550000, "category": "Autos","brand": "Chevrolet", "img": "https://img.remediosdigitales.com/31ea35/2014-cruze-diesel-1/1366_2000.jpg" },
+  { "id": 5, "name": "Blazer", "price": 750000,"category": "Camionetas","brand": "Chevrolet","img": "https://www.chevrolet.cl/content/dam/chevrolet/south-america/chile/espanol/index/suv-and-crossovers/2019-blazer/colorizer/01-images/2021/blazer-colorizer-cl-roja.jpg?imwidth=960"}]}
